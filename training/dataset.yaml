@@ -1,0 +1,7 @@
+# Train and validation data
+path: path/to/directory
+train: images/train
+val: images/val
+
+# Class names (change per asset)
+names: ['asset_name']
