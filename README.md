@@ -39,6 +39,10 @@ railway-asset-detection/
     └── bbox_to_arcgis.py         # Convert detections to ArcGIS shapefiles
 ```
 
+## Figures
+
+A high-resolution version of the YOLOv9 architecture diagram (Figure 2 in the paper) is available in this repository as [`figures/yolov9_architecture.tiff`](figures/yolov9_architecture.tiff) for readers requiring finer detail than the PDF rendering allows.
+
 ## Pipeline
 
 ### 1. Image Tiling
